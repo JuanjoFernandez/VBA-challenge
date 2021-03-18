@@ -2,7 +2,7 @@
 ![Wall Street real stock data analysis](resources/wall_street.jpg)
 
 ## **Background**
-I was given a set of data containing every stock operation at the NYSE for 5 years and commisioned to write a VBA script that analyzes the data and summarizes it yearly
+I was given a set of data containing every stock operation at the NYSE for 3 years and commisioned to write a VBA script that analyzes the data and summarizes it yearly
 
 ## **Changelog:**
 **03/11/2021**
