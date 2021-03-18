@@ -31,5 +31,15 @@ I was given a set of data containing every stock operation at the NYSE for 5 yea
 - alphabetical_testing_unsorted.* are the appropiate files for the unsorted solution
 - the new sorted approach provides consistent data and the program completes much faster, I will continue developing that solution
 - finished the new script, alphabetical_testing_sorted.* are the appropiate files for the sorted solution
-- [ ] quality control needed to guarantee that calculations are correct
-- [ ] implement the solution to the real data
+- [X] quality control needed to guarantee that calculations are correct
+- [X] implement the solution to the real data
+
+**03/18/2021**
+
+- reviewed the obtained data looking for possible logical mistakes, no errors were found
+- implementing the script in multiple_year_stock_data.xlsx
+- added a button to run the script
+- script implemented on the data
+- no errors found
+- added multiple_year_stock_data_raw for testing purposes, MAKE A COPY and run the script on the copy
+- final commit for the project
